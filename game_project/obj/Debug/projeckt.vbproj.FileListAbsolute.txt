@@ -1,0 +1,153 @@
+M:\web\sari&tovi\projeckt\projeckt\bin\roslyn\csc.exe
+M:\web\sari&tovi\projeckt\projeckt\bin\roslyn\csc.exe.config
+M:\web\sari&tovi\projeckt\projeckt\bin\roslyn\csc.rsp
+M:\web\sari&tovi\projeckt\projeckt\bin\roslyn\csi.exe
+M:\web\sari&tovi\projeckt\projeckt\bin\roslyn\csi.rsp
+M:\web\sari&tovi\projeckt\projeckt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\web\sari&tovi\projeckt\projeckt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\web\sari&tovi\projeckt\projeckt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+M:\web\sari&tovi\projeckt\projeckt\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\web\sari&tovi\projeckt\projeckt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+M:\web\sari&tovi\projeckt\projeckt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\web\sari&tovi\projeckt\projeckt\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\web\sari&tovi\projeckt\projeckt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+M:\web\sari&tovi\projeckt\projeckt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+M:\web\sari&tovi\projeckt\projeckt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\web\sari&tovi\projeckt\projeckt\bin\roslyn\System.AppContext.dll
+M:\web\sari&tovi\projeckt\projeckt\bin\roslyn\System.Collections.Immutable.dll
+M:\web\sari&tovi\projeckt\projeckt\bin\roslyn\System.Diagnostics.StackTrace.dll
+M:\web\sari&tovi\projeckt\projeckt\bin\roslyn\System.IO.FileSystem.dll
+M:\web\sari&tovi\projeckt\projeckt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+M:\web\sari&tovi\projeckt\projeckt\bin\roslyn\System.Reflection.Metadata.dll
+M:\web\sari&tovi\projeckt\projeckt\bin\roslyn\vbc.exe
+M:\web\sari&tovi\projeckt\projeckt\bin\roslyn\vbc.exe.config
+M:\web\sari&tovi\projeckt\projeckt\bin\roslyn\vbc.rsp
+M:\web\sari&tovi\projeckt\projeckt\bin\roslyn\VBCSCompiler.exe
+M:\web\sari&tovi\projeckt\projeckt\bin\roslyn\VBCSCompiler.exe.config
+M:\web\sari&tovi\projeckt\projeckt\bin\projeckt.dll.config
+M:\web\sari&tovi\projeckt\projeckt\bin\projeckt.dll
+M:\web\sari&tovi\projeckt\projeckt\bin\projeckt.pdb
+M:\web\sari&tovi\projeckt\projeckt\bin\projeckt.xml
+M:\web\sari&tovi\projeckt\projeckt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\web\sari&tovi\projeckt\projeckt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\web\sari&tovi\projeckt\projeckt\obj\Debug\projeckt.vbprojResolveAssemblyReference.cache
+M:\web\sari&tovi\projeckt\projeckt\obj\Debug\projeckt.Resources.resources
+M:\web\sari&tovi\projeckt\projeckt\obj\Debug\projeckt.vbproj.GenerateResource.Cache
+M:\web\sari&tovi\projeckt\projeckt\obj\Debug\projeckt.dll
+M:\web\sari&tovi\projeckt\projeckt\obj\Debug\projeckt.xml
+M:\web\sari&tovi\projeckt\projeckt\obj\Debug\projeckt.pdb
+M:\web\פרויקט גמר\projeckt\projeckt\bin\roslyn\csc.exe
+M:\web\פרויקט גמר\projeckt\projeckt\bin\roslyn\csc.exe.config
+M:\web\פרויקט גמר\projeckt\projeckt\bin\roslyn\csc.rsp
+M:\web\פרויקט גמר\projeckt\projeckt\bin\roslyn\csi.exe
+M:\web\פרויקט גמר\projeckt\projeckt\bin\roslyn\csi.rsp
+M:\web\פרויקט גמר\projeckt\projeckt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\web\פרויקט גמר\projeckt\projeckt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\web\פרויקט גמר\projeckt\projeckt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+M:\web\פרויקט גמר\projeckt\projeckt\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\web\פרויקט גמר\projeckt\projeckt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+M:\web\פרויקט גמר\projeckt\projeckt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\web\פרויקט גמר\projeckt\projeckt\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\web\פרויקט גמר\projeckt\projeckt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+M:\web\פרויקט גמר\projeckt\projeckt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+M:\web\פרויקט גמר\projeckt\projeckt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\web\פרויקט גמר\projeckt\projeckt\bin\roslyn\System.AppContext.dll
+M:\web\פרויקט גמר\projeckt\projeckt\bin\roslyn\System.Collections.Immutable.dll
+M:\web\פרויקט גמר\projeckt\projeckt\bin\roslyn\System.Diagnostics.StackTrace.dll
+M:\web\פרויקט גמר\projeckt\projeckt\bin\roslyn\System.IO.FileSystem.dll
+M:\web\פרויקט גמר\projeckt\projeckt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+M:\web\פרויקט גמר\projeckt\projeckt\bin\roslyn\System.Reflection.Metadata.dll
+M:\web\פרויקט גמר\projeckt\projeckt\bin\roslyn\vbc.exe
+M:\web\פרויקט גמר\projeckt\projeckt\bin\roslyn\vbc.exe.config
+M:\web\פרויקט גמר\projeckt\projeckt\bin\roslyn\vbc.rsp
+M:\web\פרויקט גמר\projeckt\projeckt\bin\roslyn\VBCSCompiler.exe
+M:\web\פרויקט גמר\projeckt\projeckt\bin\roslyn\VBCSCompiler.exe.config
+M:\web\פרויקט גמר\projeckt\projeckt\bin\projeckt.dll.config
+M:\web\פרויקט גמר\projeckt\projeckt\bin\projeckt.dll
+M:\web\פרויקט גמר\projeckt\projeckt\bin\projeckt.pdb
+M:\web\פרויקט גמר\projeckt\projeckt\bin\projeckt.xml
+M:\web\פרויקט גמר\projeckt\projeckt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\web\פרויקט גמר\projeckt\projeckt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\web\פרויקט גמר\projeckt\projeckt\obj\Debug\projeckt.vbprojResolveAssemblyReference.cache
+M:\web\פרויקט גמר\projeckt\projeckt\obj\Debug\projeckt.Resources.resources
+M:\web\פרויקט גמר\projeckt\projeckt\obj\Debug\projeckt.vbproj.GenerateResource.Cache
+M:\web\פרויקט גמר\projeckt\projeckt\obj\Debug\projeckt.dll
+M:\web\פרויקט גמר\projeckt\projeckt\obj\Debug\projeckt.xml
+M:\web\פרויקט גמר\projeckt\projeckt\obj\Debug\projeckt.pdb
+J:\הנדסת תוכנה\projeckt\projeckt\bin\roslyn\csc.exe
+J:\הנדסת תוכנה\projeckt\projeckt\bin\roslyn\csc.exe.config
+J:\הנדסת תוכנה\projeckt\projeckt\bin\roslyn\csc.rsp
+J:\הנדסת תוכנה\projeckt\projeckt\bin\roslyn\csi.exe
+J:\הנדסת תוכנה\projeckt\projeckt\bin\roslyn\csi.rsp
+J:\הנדסת תוכנה\projeckt\projeckt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\הנדסת תוכנה\projeckt\projeckt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\הנדסת תוכנה\projeckt\projeckt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+J:\הנדסת תוכנה\projeckt\projeckt\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\הנדסת תוכנה\projeckt\projeckt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+J:\הנדסת תוכנה\projeckt\projeckt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\הנדסת תוכנה\projeckt\projeckt\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\הנדסת תוכנה\projeckt\projeckt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+J:\הנדסת תוכנה\projeckt\projeckt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+J:\הנדסת תוכנה\projeckt\projeckt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\הנדסת תוכנה\projeckt\projeckt\bin\roslyn\System.AppContext.dll
+J:\הנדסת תוכנה\projeckt\projeckt\bin\roslyn\System.Collections.Immutable.dll
+J:\הנדסת תוכנה\projeckt\projeckt\bin\roslyn\System.Diagnostics.StackTrace.dll
+J:\הנדסת תוכנה\projeckt\projeckt\bin\roslyn\System.IO.FileSystem.dll
+J:\הנדסת תוכנה\projeckt\projeckt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+J:\הנדסת תוכנה\projeckt\projeckt\bin\roslyn\System.Reflection.Metadata.dll
+J:\הנדסת תוכנה\projeckt\projeckt\bin\roslyn\vbc.exe
+J:\הנדסת תוכנה\projeckt\projeckt\bin\roslyn\vbc.exe.config
+J:\הנדסת תוכנה\projeckt\projeckt\bin\roslyn\vbc.rsp
+J:\הנדסת תוכנה\projeckt\projeckt\bin\roslyn\VBCSCompiler.exe
+J:\הנדסת תוכנה\projeckt\projeckt\bin\roslyn\VBCSCompiler.exe.config
+J:\הנדסת תוכנה\projeckt\projeckt\bin\projeckt.dll.config
+J:\הנדסת תוכנה\projeckt\projeckt\bin\projeckt.dll
+J:\הנדסת תוכנה\projeckt\projeckt\bin\projeckt.pdb
+J:\הנדסת תוכנה\projeckt\projeckt\bin\projeckt.xml
+J:\הנדסת תוכנה\projeckt\projeckt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\הנדסת תוכנה\projeckt\projeckt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\הנדסת תוכנה\projeckt\projeckt\obj\Debug\projeckt.vbprojResolveAssemblyReference.cache
+J:\הנדסת תוכנה\projeckt\projeckt\obj\Debug\projeckt.Resources.resources
+J:\הנדסת תוכנה\projeckt\projeckt\obj\Debug\projeckt.vbproj.GenerateResource.Cache
+J:\הנדסת תוכנה\projeckt\projeckt\obj\Debug\projeckt.vbproj.CoreCompileInputs.cache
+J:\הנדסת תוכנה\projeckt\projeckt\obj\Debug\projeckt.dll
+J:\הנדסת תוכנה\projeckt\projeckt\obj\Debug\projeckt.xml
+J:\הנדסת תוכנה\projeckt\projeckt\obj\Debug\projeckt.pdb
+M:\projeckt\projeckt\bin\roslyn\csc.exe
+M:\projeckt\projeckt\bin\roslyn\csc.exe.config
+M:\projeckt\projeckt\bin\roslyn\csc.rsp
+M:\projeckt\projeckt\bin\roslyn\csi.exe
+M:\projeckt\projeckt\bin\roslyn\csi.rsp
+M:\projeckt\projeckt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\projeckt\projeckt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\projeckt\projeckt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+M:\projeckt\projeckt\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\projeckt\projeckt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+M:\projeckt\projeckt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\projeckt\projeckt\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\projeckt\projeckt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+M:\projeckt\projeckt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+M:\projeckt\projeckt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\projeckt\projeckt\bin\roslyn\System.AppContext.dll
+M:\projeckt\projeckt\bin\roslyn\System.Collections.Immutable.dll
+M:\projeckt\projeckt\bin\roslyn\System.Diagnostics.StackTrace.dll
+M:\projeckt\projeckt\bin\roslyn\System.IO.FileSystem.dll
+M:\projeckt\projeckt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+M:\projeckt\projeckt\bin\roslyn\System.Reflection.Metadata.dll
+M:\projeckt\projeckt\bin\roslyn\vbc.exe
+M:\projeckt\projeckt\bin\roslyn\vbc.exe.config
+M:\projeckt\projeckt\bin\roslyn\vbc.rsp
+M:\projeckt\projeckt\bin\roslyn\VBCSCompiler.exe
+M:\projeckt\projeckt\bin\roslyn\VBCSCompiler.exe.config
+M:\projeckt\projeckt\bin\projeckt.dll.config
+M:\projeckt\projeckt\bin\projeckt.dll
+M:\projeckt\projeckt\bin\projeckt.pdb
+M:\projeckt\projeckt\bin\projeckt.xml
+M:\projeckt\projeckt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\projeckt\projeckt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\projeckt\projeckt\obj\Debug\projeckt.vbprojResolveAssemblyReference.cache
+M:\projeckt\projeckt\obj\Debug\projeckt.Resources.resources
+M:\projeckt\projeckt\obj\Debug\projeckt.vbproj.GenerateResource.Cache
+M:\projeckt\projeckt\obj\Debug\projeckt.dll
+M:\projeckt\projeckt\obj\Debug\projeckt.xml
+M:\projeckt\projeckt\obj\Debug\projeckt.pdb

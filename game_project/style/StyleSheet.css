@@ -1,0 +1,45 @@
+﻿body {
+    text-align: center;
+    background-color: #f8ffc8;
+ 
+    background-image: url('../images1/TXBCK92.GIF');
+}
+section,#vol{
+    position:fixed;
+    right:50px;
+    color:#ffd800;
+    font-size:30pt;
+
+}
+#start{
+    position:fixed;
+    left:50px;
+}
+.class{
+    height:100px;
+}
+.cards {
+    border: 5px ridge #808080;
+    height: 200px;
+    position:absolute;
+}
+#gameover{
+    color: #e900ff;
+    font-size: 100pt;
+    font-weight:900;
+}
+#1{
+    width:30px;
+}
+header{
+    background-color:#ff6a00;
+    height:100px;
+}
+#vol{
+    top:60px;
+    right:100px;
+}
+span {
+    border: 3px solid #ffd800;
+    background-color: #f8ffc8;
+}

@@ -1,0 +1,310 @@
+﻿<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="..\packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props" Condition="Exists('..\packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5304D5B6-DA50-46FC-BC9B-FC2336B3A090}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>game_project</RootNamespace>
+    <AssemblyName>game_project</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <Use64BitIISExpress />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="images1\1\pic1.png" />
+    <Content Include="images1\1\pic10.png" />
+    <Content Include="images1\1\pic11.png" />
+    <Content Include="images1\1\pic12.png" />
+    <Content Include="images1\1\pic13.png" />
+    <Content Include="images1\1\pic14.png" />
+    <Content Include="images1\1\pic15.png" />
+    <Content Include="images1\1\pic16.png" />
+    <Content Include="images1\1\pic17.png" />
+    <Content Include="images1\1\pic18.png" />
+    <Content Include="images1\1\pic19.png" />
+    <Content Include="images1\1\pic2.png" />
+    <Content Include="images1\1\pic3.png" />
+    <Content Include="images1\1\pic4.png" />
+    <Content Include="images1\1\pic5.png" />
+    <Content Include="images1\1\pic6.png" />
+    <Content Include="images1\1\pic7.png" />
+    <Content Include="images1\1\pic8.png" />
+    <Content Include="images1\1\pic9.png" />
+    <Content Include="images1\2\pic1.jpg" />
+    <Content Include="images1\2\pic10.jpg" />
+    <Content Include="images1\2\pic11.jpg" />
+    <Content Include="images1\2\pic12.jpg" />
+    <Content Include="images1\2\pic13.jpg" />
+    <Content Include="images1\2\pic14.jpg" />
+    <Content Include="images1\2\pic15.jpg" />
+    <Content Include="images1\2\pic16.jpg" />
+    <Content Include="images1\2\pic17.jpg" />
+    <Content Include="images1\2\pic18.jpg" />
+    <Content Include="images1\2\pic19.jpg" />
+    <Content Include="images1\2\pic2.jpg" />
+    <Content Include="images1\2\pic3.jpg" />
+    <Content Include="images1\2\pic4.jpg" />
+    <Content Include="images1\2\pic5.jpg" />
+    <Content Include="images1\2\pic6.jpg" />
+    <Content Include="images1\2\pic7.jpg" />
+    <Content Include="images1\2\pic8.jpg" />
+    <Content Include="images1\2\pic9.jpg" />
+    <Content Include="images1\all.jpg" />
+    <Content Include="images1\background.jpg" />
+    <Content Include="images1\TXBCK117.GIF" />
+    <Content Include="images1\TXBCK120.GIF" />
+    <Content Include="images1\TXBCK58.GIF" />
+    <Content Include="images1\TXBCK92.GIF" />
+    <Content Include="images1\volume.PNG" />
+    <Content Include="images1\XX000948.gif" />
+    <Content Include="images2\1\pic1.png" />
+    <Content Include="images2\1\pic10.png" />
+    <Content Include="images2\1\pic11.png" />
+    <Content Include="images2\1\pic12.png" />
+    <Content Include="images2\1\pic13.png" />
+    <Content Include="images2\1\pic14.png" />
+    <Content Include="images2\1\pic15.png" />
+    <Content Include="images2\1\pic16.png" />
+    <Content Include="images2\1\pic17.png" />
+    <Content Include="images2\1\pic18.png" />
+    <Content Include="images2\1\pic19.png" />
+    <Content Include="images2\1\pic2.png" />
+    <Content Include="images2\1\pic3.png" />
+    <Content Include="images2\1\pic4.png" />
+    <Content Include="images2\1\pic5.png" />
+    <Content Include="images2\1\pic6.png" />
+    <Content Include="images2\1\pic7.png" />
+    <Content Include="images2\1\pic9.png" />
+    <Content Include="images2\1\pic8.png" />
+    <Content Include="images2\2\pic1.JPG" />
+    <Content Include="images2\2\pic10.JPG" />
+    <Content Include="images2\2\pic11.JPG" />
+    <Content Include="images2\2\pic12.JPG" />
+    <Content Include="images2\2\pic13.JPG" />
+    <Content Include="images2\2\pic14.jpg" />
+    <Content Include="images2\2\pic15.jpg" />
+    <Content Include="images2\2\pic16.jpg" />
+    <Content Include="images2\2\pic17.jpg" />
+    <Content Include="images2\2\pic18.jpg" />
+    <Content Include="images2\2\pic19.jpg" />
+    <Content Include="images2\2\pic2.JPG" />
+    <Content Include="images2\2\pic3.JPG" />
+    <Content Include="images2\2\pic4.JPG" />
+    <Content Include="images2\2\pic5.JPG" />
+    <Content Include="images2\2\pic6.JPG" />
+    <Content Include="images2\2\pic7.JPG" />
+    <Content Include="images2\2\pic8.JPG" />
+    <Content Include="images2\2\pic9.JPG" />
+    <Content Include="images3\1\pic1.png" />
+    <Content Include="images3\1\pic10.png" />
+    <Content Include="images3\1\pic11.png" />
+    <Content Include="images3\1\pic12.png" />
+    <Content Include="images3\1\pic13.png" />
+    <Content Include="images3\1\pic14.png" />
+    <Content Include="images3\1\pic15.png" />
+    <Content Include="images3\1\pic16.png" />
+    <Content Include="images3\1\pic17.png" />
+    <Content Include="images3\1\pic18.png" />
+    <Content Include="images3\1\pic19.png" />
+    <Content Include="images3\1\pic2.png" />
+    <Content Include="images3\1\pic3.png" />
+    <Content Include="images3\1\pic4.png" />
+    <Content Include="images3\1\Pic5.png" />
+    <Content Include="images3\1\pic6.png" />
+    <Content Include="images3\1\pic7.png" />
+    <Content Include="images3\1\pic8.png" />
+    <Content Include="images3\1\pic9.png" />
+    <Content Include="images3\2\pic1.jpg" />
+    <Content Include="images3\2\pic10.jpg" />
+    <Content Include="images3\2\pic11.jpg" />
+    <Content Include="images3\2\pic12.jpg" />
+    <Content Include="images3\2\pic13.jpg" />
+    <Content Include="images3\2\pic14.jpg" />
+    <Content Include="images3\2\pic15.jpg" />
+    <Content Include="images3\2\pic16.jpg" />
+    <Content Include="images3\2\pic17.jpg" />
+    <Content Include="images3\2\pic18.jpg" />
+    <Content Include="images3\2\pic19.jpg" />
+    <Content Include="images3\2\pic2.jpg" />
+    <Content Include="images3\2\pic3.jpg" />
+    <Content Include="images3\2\pic4.jpg" />
+    <Content Include="images3\2\pic5.jpg" />
+    <Content Include="images3\2\pic6.jpg" />
+    <Content Include="images3\2\pic7.jpg" />
+    <Content Include="images3\2\pic8.jpg" />
+    <Content Include="images3\2\pic9.jpg" />
+    <Content Include="packages.config" />
+    <Content Include="bin\projeckt.dll.config" />
+    <Content Include="bin\roslyn\csc.exe.config" />
+    <Content Include="bin\roslyn\csc.rsp" />
+    <Content Include="bin\roslyn\csi.rsp" />
+    <Content Include="bin\roslyn\Microsoft.CSharp.Core.targets" />
+    <Content Include="bin\roslyn\Microsoft.VisualBasic.Core.targets" />
+    <Content Include="bin\roslyn\vbc.exe.config" />
+    <Content Include="bin\roslyn\vbc.rsp" />
+    <Content Include="bin\roslyn\VBCSCompiler.exe.config" />
+    <Content Include="obj\Debug\CoreCompileInputs.cache" />
+    <Content Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <Content Include="obj\Debug\projeckt.vbproj.CopyComplete" />
+    <Content Include="obj\Debug\projeckt.vbproj.CoreCompileInputs.cache" />
+    <Content Include="obj\Debug\projeckt.vbproj.GenerateResource.Cache" />
+    <Content Include="obj\Debug\projeckt.vbprojResolveAssemblyReference.cache" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="audio\02 - THE Chasidic Frog.mp3" />
+    <Content Include="audio\7.wma" />
+    <Content Include="audio\CHARGE.WAV" />
+    <Content Include="audio\LAUGHM.WAV" />
+    <Content Include="audio\open.wav" />
+    <Content Include="audio\SUCKCUP.WAV" />
+    <Content Include="audio\TT04.WAV" />
+    <Content Include="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" />
+    <Content Include="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" />
+    <Content Include="bin\projeckt.dll" />
+    <Content Include="bin\projeckt.pdb" />
+    <Content Include="bin\projeckt.xml" />
+    <Content Include="bin\roslyn\csc.exe" />
+    <Content Include="bin\roslyn\csi.exe" />
+    <Content Include="bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll" />
+    <Content Include="bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll" />
+    <Content Include="bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll" />
+    <Content Include="bin\roslyn\Microsoft.CodeAnalysis.dll" />
+    <Content Include="bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll" />
+    <Content Include="bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll" />
+    <Content Include="bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll" />
+    <Content Include="bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll" />
+    <Content Include="bin\roslyn\System.AppContext.dll" />
+    <Content Include="bin\roslyn\System.Collections.Immutable.dll" />
+    <Content Include="bin\roslyn\System.Diagnostics.StackTrace.dll" />
+    <Content Include="bin\roslyn\System.IO.FileSystem.dll" />
+    <Content Include="bin\roslyn\System.IO.FileSystem.Primitives.dll" />
+    <Content Include="bin\roslyn\System.Reflection.Metadata.dll" />
+    <Content Include="bin\roslyn\vbc.exe" />
+    <Content Include="bin\roslyn\VBCSCompiler.exe" />
+    <Content Include="obj\Debug\projeckt.dll" />
+    <Content Include="obj\Debug\projeckt.pdb" />
+    <Content Include="obj\Debug\projeckt.vbproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\projeckt.xml" />
+    <Content Include="pages\game.html" />
+    <Content Include="pages\home.html" />
+    <Content Include="script\jq\jquery-1.11.3.min.js" />
+    <Content Include="script\jq\jquery-1.9.1.js" />
+    <Content Include="script\site\JavaScript.js" />
+    <Content Include="script\site\JavaScript1.js" />
+    <Content Include="style\StyleSheet.css" />
+    <Content Include="style\StyleSheet1.css" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="obj\Debug\projeckt.Resources.resources" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="obj\Debug\TempPE\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>6840</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:6840/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

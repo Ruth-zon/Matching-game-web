@@ -1,0 +1,135 @@
+M:\web\game_project\game_project\bin\roslyn\csc.exe
+M:\web\game_project\game_project\bin\roslyn\csc.exe.config
+M:\web\game_project\game_project\bin\roslyn\csc.rsp
+M:\web\game_project\game_project\bin\roslyn\csi.exe
+M:\web\game_project\game_project\bin\roslyn\csi.rsp
+M:\web\game_project\game_project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\web\game_project\game_project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\web\game_project\game_project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+M:\web\game_project\game_project\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\web\game_project\game_project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+M:\web\game_project\game_project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\web\game_project\game_project\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\web\game_project\game_project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+M:\web\game_project\game_project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+M:\web\game_project\game_project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\web\game_project\game_project\bin\roslyn\System.AppContext.dll
+M:\web\game_project\game_project\bin\roslyn\System.Collections.Immutable.dll
+M:\web\game_project\game_project\bin\roslyn\System.Diagnostics.StackTrace.dll
+M:\web\game_project\game_project\bin\roslyn\System.IO.FileSystem.dll
+M:\web\game_project\game_project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+M:\web\game_project\game_project\bin\roslyn\System.Reflection.Metadata.dll
+M:\web\game_project\game_project\bin\roslyn\vbc.exe
+M:\web\game_project\game_project\bin\roslyn\vbc.exe.config
+M:\web\game_project\game_project\bin\roslyn\vbc.rsp
+M:\web\game_project\game_project\bin\roslyn\VBCSCompiler.exe
+M:\web\game_project\game_project\bin\roslyn\VBCSCompiler.exe.config
+M:\web\game_project\game_project\bin\game_project.dll.config
+M:\web\game_project\game_project\bin\game_project.dll
+M:\web\game_project\game_project\bin\game_project.pdb
+M:\web\game_project\game_project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\web\game_project\game_project\obj\Debug\game_project.csprojResolveAssemblyReference.cache
+M:\web\game_project\game_project\obj\Debug\game_project.dll
+M:\web\game_project\game_project\obj\Debug\game_project.pdb
+D:\game_project\game_project\bin\roslyn\csc.exe
+D:\game_project\game_project\bin\roslyn\csc.exe.config
+D:\game_project\game_project\bin\roslyn\csc.rsp
+D:\game_project\game_project\bin\roslyn\csi.exe
+D:\game_project\game_project\bin\roslyn\csi.rsp
+D:\game_project\game_project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\game_project\game_project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\game_project\game_project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\game_project\game_project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\game_project\game_project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\game_project\game_project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\game_project\game_project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\game_project\game_project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\game_project\game_project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\game_project\game_project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\game_project\game_project\bin\roslyn\System.AppContext.dll
+D:\game_project\game_project\bin\roslyn\System.Collections.Immutable.dll
+D:\game_project\game_project\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\game_project\game_project\bin\roslyn\System.IO.FileSystem.dll
+D:\game_project\game_project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\game_project\game_project\bin\roslyn\System.Reflection.Metadata.dll
+D:\game_project\game_project\bin\roslyn\vbc.exe
+D:\game_project\game_project\bin\roslyn\vbc.exe.config
+D:\game_project\game_project\bin\roslyn\vbc.rsp
+D:\game_project\game_project\bin\roslyn\VBCSCompiler.exe
+D:\game_project\game_project\bin\roslyn\VBCSCompiler.exe.config
+D:\game_project\game_project\bin\game_project.dll.config
+D:\game_project\game_project\bin\game_project.dll
+D:\game_project\game_project\bin\game_project.pdb
+D:\game_project\game_project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\game_project\game_project\obj\Debug\game_project.csprojResolveAssemblyReference.cache
+D:\game_project\game_project\obj\Debug\game_project.csproj.CoreCompileInputs.cache
+D:\game_project\game_project\obj\Debug\game_project.dll
+D:\game_project\game_project\obj\Debug\game_project.pdb
+C:\Users\User\Documents\פרויקטים הנדסאים\game_project\game_project\bin\roslyn\csc.exe
+C:\Users\User\Documents\פרויקטים הנדסאים\game_project\game_project\bin\roslyn\csc.exe.config
+C:\Users\User\Documents\פרויקטים הנדסאים\game_project\game_project\bin\roslyn\csc.rsp
+C:\Users\User\Documents\פרויקטים הנדסאים\game_project\game_project\bin\roslyn\csi.exe
+C:\Users\User\Documents\פרויקטים הנדסאים\game_project\game_project\bin\roslyn\csi.rsp
+C:\Users\User\Documents\פרויקטים הנדסאים\game_project\game_project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Documents\פרויקטים הנדסאים\game_project\game_project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Documents\פרויקטים הנדסאים\game_project\game_project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Documents\פרויקטים הנדסאים\game_project\game_project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Documents\פרויקטים הנדסאים\game_project\game_project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Documents\פרויקטים הנדסאים\game_project\game_project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Documents\פרויקטים הנדסאים\game_project\game_project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Documents\פרויקטים הנדסאים\game_project\game_project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Documents\פרויקטים הנדסאים\game_project\game_project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Documents\פרויקטים הנדסאים\game_project\game_project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Documents\פרויקטים הנדסאים\game_project\game_project\bin\roslyn\System.AppContext.dll
+C:\Users\User\Documents\פרויקטים הנדסאים\game_project\game_project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Documents\פרויקטים הנדסאים\game_project\game_project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Documents\פרויקטים הנדסאים\game_project\game_project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Documents\פרויקטים הנדסאים\game_project\game_project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Documents\פרויקטים הנדסאים\game_project\game_project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Documents\פרויקטים הנדסאים\game_project\game_project\bin\roslyn\vbc.exe
+C:\Users\User\Documents\פרויקטים הנדסאים\game_project\game_project\bin\roslyn\vbc.exe.config
+C:\Users\User\Documents\פרויקטים הנדסאים\game_project\game_project\bin\roslyn\vbc.rsp
+C:\Users\User\Documents\פרויקטים הנדסאים\game_project\game_project\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Documents\פרויקטים הנדסאים\game_project\game_project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Documents\פרויקטים הנדסאים\game_project\game_project\bin\game_project.dll.config
+C:\Users\User\Documents\פרויקטים הנדסאים\game_project\game_project\bin\game_project.dll
+C:\Users\User\Documents\פרויקטים הנדסאים\game_project\game_project\bin\game_project.pdb
+C:\Users\User\Documents\פרויקטים הנדסאים\game_project\game_project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Documents\פרויקטים הנדסאים\game_project\game_project\obj\Debug\game_project.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\פרויקטים הנדסאים\game_project\game_project\obj\Debug\game_project.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\פרויקטים הנדסאים\game_project\game_project\obj\Debug\game_project.dll
+C:\Users\User\Documents\פרויקטים הנדסאים\game_project\game_project\obj\Debug\game_project.pdb
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\game_project_web\game_project\bin\roslyn\csc.exe
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\game_project_web\game_project\bin\roslyn\csc.exe.config
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\game_project_web\game_project\bin\roslyn\csc.rsp
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\game_project_web\game_project\bin\roslyn\csi.exe
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\game_project_web\game_project\bin\roslyn\csi.rsp
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\game_project_web\game_project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\game_project_web\game_project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\game_project_web\game_project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\game_project_web\game_project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\game_project_web\game_project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\game_project_web\game_project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\game_project_web\game_project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\game_project_web\game_project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\game_project_web\game_project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\game_project_web\game_project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\game_project_web\game_project\bin\roslyn\System.AppContext.dll
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\game_project_web\game_project\bin\roslyn\System.Collections.Immutable.dll
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\game_project_web\game_project\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\game_project_web\game_project\bin\roslyn\System.IO.FileSystem.dll
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\game_project_web\game_project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\game_project_web\game_project\bin\roslyn\System.Reflection.Metadata.dll
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\game_project_web\game_project\bin\roslyn\vbc.exe
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\game_project_web\game_project\bin\roslyn\vbc.exe.config
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\game_project_web\game_project\bin\roslyn\vbc.rsp
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\game_project_web\game_project\bin\roslyn\VBCSCompiler.exe
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\game_project_web\game_project\bin\roslyn\VBCSCompiler.exe.config
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\game_project_web\game_project\bin\game_project.dll.config
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\game_project_web\game_project\bin\game_project.dll
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\game_project_web\game_project\bin\game_project.pdb
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\game_project_web\game_project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\game_project_web\game_project\obj\Debug\game_project.csprojResolveAssemblyReference.cache
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\game_project_web\game_project\obj\Debug\game_project.csproj.CoreCompileInputs.cache
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\game_project_web\game_project\obj\Debug\game_project.dll
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\game_project_web\game_project\obj\Debug\game_project.pdb

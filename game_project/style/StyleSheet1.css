@@ -1,0 +1,28 @@
+﻿body{
+    text-align:center;
+
+}
+#all{
+    opacity:0.4;
+    width:900px;
+    position:absolute;
+    margin:auto;
+    right:25%;
+}
+a{
+    border:5px solid #ffd800;
+    background-color:red;
+    font-size:22pt;
+    position:absolute;
+    left:0px;
+    top:0px;
+    color:#ffd800;
+    font-weight:900;
+    text-decoration:none;
+}
+h1{
+    color:#d92aed;
+}
+h2 {
+    color:#ed7706;
+}
